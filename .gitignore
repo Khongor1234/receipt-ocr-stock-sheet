@@ -1,0 +1,8 @@
+# the pasted bundles are build output: sh build.sh makes them
+neg-file/
+# business data and reports never go into git
+*.xlsx
+*.csv
+*.docx
+*.pdf
+.DS_Store
